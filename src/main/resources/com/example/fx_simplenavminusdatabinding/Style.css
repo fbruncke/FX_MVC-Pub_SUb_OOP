@@ -1,0 +1,19 @@
+.button{
+    -fx-background-color:Pink;
+    -fx-text-fill: Purple;
+}
+
+.label{
+    -fx-background-color: green;
+}
+
+.text-field {
+    -fx-focus-color: -fx-control-inner-background ;
+    -fx-faint-focus-color: -fx-control-inner-background ;
+    -fx-border-color: pink;
+}
+
+.root {
+    -fx-background-color: lightblue;
+}
+
